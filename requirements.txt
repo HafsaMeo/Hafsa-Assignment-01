@@ -1,0 +1,4 @@
+google_genai
+pinecone
+pandas
+dotenv
